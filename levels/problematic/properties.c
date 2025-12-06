@@ -18,7 +18,7 @@ const unsigned int problematic_properties[] = {
  /*stars*/         10,
  /*coins number*/  3,
  /*background*/    2,
- /*ground*/        0,
+ /*ground*/        5,
 };
 
 const unsigned char problematic_name[] = {
